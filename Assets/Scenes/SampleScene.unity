@@ -331,6 +331,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1127820396}
     m_Modifications:
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_text
+      value: Audrey Manley
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Size.x
+      value: 7.8612366
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Size.y
+      value: 10.8125
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4127e670751744340a169118da81abf4, type: 3}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8580812126371814534, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_Name
       value: Frame (7)
@@ -547,6 +567,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1127820396}
     m_Modifications:
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_text
+      value: Florence Read
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Size.x
+      value: 5.4053464
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Size.y
+      value: 6.825
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 542fd38b6ffcd41be826ed49f9b3dfac, type: 3}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8580812126371814534, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_Name
       value: Frame (2)
@@ -2021,6 +2061,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1127820396}
     m_Modifications:
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_text
+      value: Albert Manley
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Size.x
+      value: 12.477501
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Size.y
+      value: 15.572165
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 84fe98aa6eef44ad49931a9e4f90b2a0, type: 3}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8580812126371814534, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_Name
       value: Frame (3)
@@ -2306,8 +2366,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 724906476}
-  m_LocalRotation: {x: -0.0647084, y: 0.7862995, z: 0.08357849, w: 0.6087369}
-  m_LocalPosition: {x: -7.8973203, y: 1.9469671, z: 5.771095}
+  m_LocalRotation: {x: 0.11313434, y: 0.2717502, z: 0.03219113, w: -0.95515245}
+  m_LocalPosition: {x: 1.9192781, y: 1.5827556, z: 1.8269291}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2625,6 +2685,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1127820396}
     m_Modifications:
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_text
+      value: Sophia Packard
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Size.x
+      value: 1.61
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Size.y
+      value: 2.4425
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1fcca8d3e3f324f7ebbe2f34874ba0dc, type: 3}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8580812126371814534, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_Name
       value: Frame (10)
@@ -2913,6 +2993,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1127820396}
     m_Modifications:
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_text
+      value: Johnnetta Cole
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Size.x
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Size.y
+      value: 3.445
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e5065f8ce60804ac3931f43c22bfc929, type: 3}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8580812126371814534, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_Name
       value: Frame (6)
@@ -3755,6 +3855,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1127820396}
     m_Modifications:
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_text
+      value: Lucy Tapley
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Size.x
+      value: 4.5024996
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Size.y
+      value: 6.110749
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e1fc063961a2d42e0b102960ef6bdae6, type: 3}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8580812126371814534, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_Name
       value: Frame (1)
@@ -3857,6 +3977,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1127820396}
     m_Modifications:
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_text
+      value: Beverly Tatum
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Size.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Size.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 10d549b1ad0474ad68c2070532279455, type: 3}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8580812126371814534, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_Name
       value: Frame (8)
@@ -4275,6 +4415,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1127820396}
     m_Modifications:
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_text
+      value: Helene Gayle
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Size.x
+      value: 3.9275
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Size.y
+      value: 4.815
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 39475f98c444a44a7b31f8edcc2e438c, type: 3}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8580812126371814534, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_Name
       value: Frame (11)
@@ -4629,6 +4789,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1127820396}
     m_Modifications:
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_text
+      value: Donald Stewart
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Size.x
+      value: 5.4000006
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Size.y
+      value: 7.2282357
+      objectReference: {fileID: 0}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 98fd1b5c60b404b7db6b67455586273b, type: 3}
+    - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8580812126371814534, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_Name
       value: Frame (5)
