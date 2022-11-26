@@ -15,12 +15,15 @@ public class AudioController : MonoBehaviour
     public float IndoorWaveVolume = 0.3f;     //the volume inside the cottage
     public float WaveVolumeDoorAttenuation = 0.2f;    //the amount by which the closed door decreases the indoor volume
     //we need to invert the distance calculation: the waves get louder the *farther* we are from the center of the island.
-    public float OutdoorMaxDistance = 25f; //the radius of the island
-    public float OutdoorMaxDistanceVolume = 0f; //the vaolume at the max distance
-    public float OutdoorDistance0Volume = 1f;  //the volume at the shore
+    public float WaveMaxVolume = 1f;  //the volume at the shore (distance = 0)
+    public float WaveLogRollOff = 0.08f; //the vaolume at the max
+    public float WaveMinValume = 0f;  //the mininum volume (before door attenuation)
+    public float IslandRadius = 25f;
 
     public Cottage cottage;
     public Door door;
+
+    public TMPro.TMP_Text DebugTxt;
 
     float NightVolume;
     float WaveVolume;
@@ -41,10 +44,15 @@ public class AudioController : MonoBehaviour
         }
         else
         {
-            float distance = Mathf.Sqrt(Mathf.Pow(transform.position.x - Player.transform.position.x, 2f)
-                + Mathf.Pow(transform.position.z - Player.transform.position.z, 2f));
+            float distance = IslandRadius - Vector3.Distance(transform.position, Player.transform.position);
+            WaveVolume = Mathf.Clamp(WaveMaxVolume * Mathf.Exp(-distance * WaveLogRollOff), WaveMinValume, WaveMaxVolume);
 
-            WaveVolume = OutdoorDistance0Volume + (distance - 0) * (OutdoorMaxDistanceVolume - OutdoorDistance0Volume) / (OutdoorMaxDistance - 0);
+            DebugTxt.text = distance.ToString();
+
+            //float distance = Mathf.Sqrt(Mathf.Pow(transform.position.x - Player.transform.position.x, 2f)
+            //    + Mathf.Pow(transform.position.z - Player.transform.position.z, 2f));
+
+            //WaveVolume = OutdoorDistance0Volume + (distance - 0) * (OutdoorMaxDistanceVolume - OutdoorDistance0Volume) / (OutdoorMaxDistance - 0);
         }
         WaveAudioSource.volume = WaveVolume;
 
