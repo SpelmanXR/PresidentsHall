@@ -29,4 +29,9 @@ Mixamo.com
 Character Controller
 Unity First Person Starter Assets
 
+Ocean Sound
+https://freesound.org/people/Eelke/sounds/462594/
+
+Night Sound
+https://freesound.org/people/arnaud%20coutancier/sounds/456986/
 

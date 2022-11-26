@@ -6,13 +6,22 @@ public class Door : MonoBehaviour
 {
     public Animator DoorAnimator;
 
+    bool bDoorOpen = false;
+
+    public bool DoorOpen
+    {
+        get { return bDoorOpen; }
+    }
+
     private void OnTriggerEnter(Collider other)
     {
-        DoorAnimator.SetBool("open", true);
+        bDoorOpen = true;
+        DoorAnimator.SetBool("open", bDoorOpen);
     }
 
     private void OnTriggerExit(Collider other)
     {
-        DoorAnimator.SetBool("open", false);
+        bDoorOpen = false;
+        DoorAnimator.SetBool("open", bDoorOpen);
     }
 }
