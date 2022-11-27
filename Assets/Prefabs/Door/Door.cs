@@ -15,12 +15,14 @@ public class Door : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        if (!other.CompareTag("Player")) return;
         bDoorOpen = true;
         DoorAnimator.SetBool("open", bDoorOpen);
     }
 
     private void OnTriggerExit(Collider other)
     {
+        if (!other.CompareTag("Player")) return;
         bDoorOpen = false;
         DoorAnimator.SetBool("open", bDoorOpen);
     }

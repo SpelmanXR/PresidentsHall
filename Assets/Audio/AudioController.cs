@@ -20,7 +20,7 @@ public class AudioController : MonoBehaviour
     public float WaveMinValume = 0f;  //the mininum volume (before door attenuation)
     public float IslandRadius = 25f;
 
-    public Cottage cottage;
+    public CottageInteriorMonitor cottage;
     public Door door;
 
     public TMPro.TMP_Text DebugTxt;
