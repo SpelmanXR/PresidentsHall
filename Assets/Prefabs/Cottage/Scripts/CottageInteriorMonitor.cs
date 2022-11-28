@@ -16,13 +16,13 @@ public class CottageInteriorMonitor : MonoBehaviour
     {
         if (!other.CompareTag("Player")) return;
         EnterCount++;
-        Debug.Log("CottageInteriorMonitor:OnTriggerEnter(): " + EnterCount + " " + (EnterCount !=0) );
+        //Debug.Log("CottageInteriorMonitor:OnTriggerEnter(): " + EnterCount + " " + (EnterCount !=0) );
     }
 
     private void OnTriggerExit(Collider other)
     {
         if (!other.CompareTag("Player")) return;
         EnterCount--;
-        Debug.Log("CottageInteriorMonitor:OnTriggerExit(): " + EnterCount + " " + (EnterCount != 0));
+        //Debug.Log("CottageInteriorMonitor:OnTriggerExit(): " + EnterCount + " " + (EnterCount != 0));
     }
 }
