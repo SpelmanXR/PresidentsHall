@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SpelmanCampus.unity
     guid: 84c5b55db1b070d438786c8159041524
+  - enabled: 1
+    path: Assets/Scenes/MorehouseCampus.unity
+    guid: b2c3f863448ad2f48b493f265faa5129
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e64c7fcfde6514db5a1013a51ca6facb, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 38b3614c079274c808f2f0db14bd9680, type: 2}
