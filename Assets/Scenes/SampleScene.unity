@@ -1497,7 +1497,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_text
-      value: Florence Read
+      value: Savannah State University
+      objectReference: {fileID: 0}
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_fontSize
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 6112106664863977909, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_LocalScale.x
@@ -1522,6 +1530,18 @@ PrefabInstance:
     - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7797467625656963254, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7797467625656963254, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.018
+      objectReference: {fileID: 0}
+    - target: {fileID: 7797467625656963254, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.002
       objectReference: {fileID: 0}
     - target: {fileID: 8580812126371814534, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_Name
@@ -2919,9 +2939,29 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1127820396}
     m_Modifications:
+    - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: XRObject
+      value: 
+      objectReference: {fileID: 361590295}
     - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_text
-      value: M.S. Campbell
+      value: 'Morris Brown '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_fontSize
+      value: 0.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 0.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 6112106664863977909, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 6112106664863977909, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.54
       objectReference: {fileID: 0}
     - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_Size.x
@@ -2934,7 +2974,7 @@ PrefabInstance:
     - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: d2ddf3184f21b4cd8a8b74d32a477e76, type: 3}
+      objectReference: {fileID: 21300000, guid: 966440f48ff4da641be84301d58c4e24, type: 3}
     - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
@@ -4426,7 +4466,17 @@ PrefabInstance:
       objectReference: {fileID: 361590295}
     - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_text
-      value: Harriet Giles
+      value: 'Albany State
+
+        University'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_fontSize
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 6112106664863977909, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_LocalScale.x
@@ -4451,6 +4501,18 @@ PrefabInstance:
     - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7797467625656963254, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7797467625656963254, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.008
+      objectReference: {fileID: 0}
+    - target: {fileID: 7797467625656963254, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.028
       objectReference: {fileID: 0}
     - target: {fileID: 8580812126371814534, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_Name
@@ -5214,7 +5276,7 @@ PrefabInstance:
       objectReference: {fileID: 361590295}
     - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_text
-      value: Albert Manley
+      value: Paine College
       objectReference: {fileID: 0}
     - target: {fileID: 6112106664863977909, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_LocalScale.x
@@ -7765,8 +7827,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1260878255}
-  m_LocalRotation: {x: -0, y: 0.999542, z: -0, w: -0.030262543}
-  m_LocalPosition: {x: -53.937893, y: -2.1599994, z: 69.87252}
+  m_LocalRotation: {x: -0.02994153, y: 0.059937023, z: 0.0017986505, w: 0.9977514}
+  m_LocalPosition: {x: -145.33907, y: -1.8334312, z: -28.353874}
   m_LocalScale: {x: 12.161653, y: 1.2241615, z: 3.3324802}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8993,7 +9055,17 @@ PrefabInstance:
       objectReference: {fileID: 361590295}
     - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_text
-      value: Lucy Tapley
+      value: 'Fort Valley State
+
+        University'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_fontSize
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 6112106664863977909, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_LocalScale.x
@@ -9022,6 +9094,18 @@ PrefabInstance:
     - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7797467625656963254, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7797467625656963254, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.008
+      objectReference: {fileID: 0}
+    - target: {fileID: 7797467625656963254, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.028
       objectReference: {fileID: 0}
     - target: {fileID: 8580812126371814534, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_Name
@@ -9159,9 +9243,31 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1127820396}
     m_Modifications:
+    - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: XRObject
+      value: 
+      objectReference: {fileID: 361590295}
     - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_text
-      value: Beverly Tatum
+      value: 'Morehouse School of
+
+        Medicine'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_fontSize
+      value: 0.055
+      objectReference: {fileID: 0}
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 0.055
+      objectReference: {fileID: 0}
+    - target: {fileID: 6112106664863977909, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6112106664863977909, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.47
       objectReference: {fileID: 0}
     - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_Size.x
@@ -9174,10 +9280,22 @@ PrefabInstance:
     - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 10d549b1ad0474ad68c2070532279455, type: 3}
+      objectReference: {fileID: 21300000, guid: 961ba1c7cfbccd9408e8e7f9b0b288ed, type: 3}
     - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7797467625656963254, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7797467625656963254, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.008
+      objectReference: {fileID: 0}
+    - target: {fileID: 7797467625656963254, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.03
       objectReference: {fileID: 0}
     - target: {fileID: 8580812126371814534, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_Name
@@ -10836,9 +10954,31 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1127820396}
     m_Modifications:
+    - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: XRObject
+      value: 
+      objectReference: {fileID: 361590295}
     - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_text
-      value: Helene Gayle
+      value: 'Interdenominational
+
+        Theological Center'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_fontSize
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6112106664863977909, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 6112106664863977909, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.57
       objectReference: {fileID: 0}
     - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_Size.x
@@ -10851,7 +10991,7 @@ PrefabInstance:
     - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 39475f98c444a44a7b31f8edcc2e438c, type: 3}
+      objectReference: {fileID: 21300000, guid: b14654b2aeb5ddd45a4d12e76357e16c, type: 3}
     - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
@@ -11803,7 +11943,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_text
-      value: Donald Stewart
+      value: Clark Atlanta University
+      objectReference: {fileID: 0}
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_fontSize
+      value: 0.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 0.06
       objectReference: {fileID: 0}
     - target: {fileID: 6112106664863977909, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_LocalScale.x
@@ -11828,6 +11976,18 @@ PrefabInstance:
     - target: {fileID: 7131473577383234432, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7797467625656963254, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7797467625656963254, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.019
+      objectReference: {fileID: 0}
+    - target: {fileID: 7797467625656963254, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.002
       objectReference: {fileID: 0}
     - target: {fileID: 8580812126371814534, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_Name
@@ -12612,8 +12772,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2099895988}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.1299999, y: 1.7600012, z: 5.874381}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+  m_LocalPosition: {x: 0.62, y: 1.7324004, z: 1.16}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
