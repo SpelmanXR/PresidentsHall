@@ -11,9 +11,33 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SpelmanCampus.unity
     guid: 84c5b55db1b070d438786c8159041524
-  - enabled: 1
+  - enabled: 0
+    path: Assets/Scenes/ASU.unity
+    guid: 3b58034c266ac0a4ca739bb6232f08fd
+  - enabled: 0
+    path: Assets/Scenes/CAU.unity
+    guid: cb98fd3ec62142947ae008d3c806ce5e
+  - enabled: 0
     path: Assets/Scenes/FVSU.unity
     guid: b2c3f863448ad2f48b493f265faa5129
+  - enabled: 0
+    path: Assets/Scenes/ITC.unity
+    guid: d6afb1165b6462b47a99ccc657778074
+  - enabled: 0
+    path: Assets/Scenes/MoreHouse.unity
+    guid: 7354e57b1b484d047b2b4d73779f72eb
+  - enabled: 0
+    path: Assets/Scenes/MSM.unity
+    guid: 97d925a9ab03c744a9348881a61b838a
+  - enabled: 0
+    path: Assets/Scenes/MorrisBrown.unity
+    guid: 37d8fd449ee231b42a0f2a9f335acdaa
+  - enabled: 0
+    path: Assets/Scenes/Paine.unity
+    guid: a8b2342d6c7c5c049bb53a4745b90076
+  - enabled: 0
+    path: Assets/Scenes/SSU.unity
+    guid: 1205fa84a65d65b4c909137b5b01e550
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e64c7fcfde6514db5a1013a51ca6facb, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 38b3614c079274c808f2f0db14bd9680, type: 2}

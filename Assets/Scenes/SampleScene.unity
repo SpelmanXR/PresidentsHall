@@ -2943,6 +2943,10 @@ PrefabInstance:
       propertyPath: XRObject
       value: 
       objectReference: {fileID: 361590295}
+    - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: campusName
+      value: MorrisBrown
+      objectReference: {fileID: 0}
     - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_text
       value: 'Morris Brown '
@@ -4464,6 +4468,10 @@ PrefabInstance:
       propertyPath: XRObject
       value: 
       objectReference: {fileID: 361590295}
+    - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: campusName
+      value: ASU
+      objectReference: {fileID: 0}
     - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_text
       value: 'Albany State
@@ -5274,6 +5282,10 @@ PrefabInstance:
       propertyPath: XRObject
       value: 
       objectReference: {fileID: 361590295}
+    - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: campusName
+      value: Paine
+      objectReference: {fileID: 0}
     - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_text
       value: Paine College
@@ -6997,7 +7009,7 @@ PrefabInstance:
       objectReference: {fileID: 361590295}
     - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: campusName
-      value: MorehouseCampus
+      value: MoreHouse
       objectReference: {fileID: 0}
     - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_text
@@ -7827,8 +7839,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1260878255}
-  m_LocalRotation: {x: -0.02994153, y: 0.059937023, z: 0.0017986505, w: 0.9977514}
-  m_LocalPosition: {x: -145.33907, y: -1.8334312, z: -28.353874}
+  m_LocalRotation: {x: -0.038048245, y: -0.2700033, z: 0.009891698, w: -0.9620565}
+  m_LocalPosition: {x: -157.255, y: -2.087027, z: 8.925179}
   m_LocalScale: {x: 12.161653, y: 1.2241615, z: 3.3324802}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9053,6 +9065,10 @@ PrefabInstance:
       propertyPath: XRObject
       value: 
       objectReference: {fileID: 361590295}
+    - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: campusName
+      value: FVSU
+      objectReference: {fileID: 0}
     - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_text
       value: 'Fort Valley State
@@ -9247,6 +9263,10 @@ PrefabInstance:
       propertyPath: XRObject
       value: 
       objectReference: {fileID: 361590295}
+    - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: campusName
+      value: MSM
+      objectReference: {fileID: 0}
     - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_text
       value: 'Morehouse School of
@@ -10958,6 +10978,10 @@ PrefabInstance:
       propertyPath: XRObject
       value: 
       objectReference: {fileID: 361590295}
+    - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: campusName
+      value: ITC
+      objectReference: {fileID: 0}
     - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_text
       value: 'Interdenominational
@@ -12772,8 +12796,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2099895988}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
-  m_LocalPosition: {x: 0.62, y: 1.7324004, z: 1.16}
+  m_LocalRotation: {x: -0.047449652, y: 0.08282627, z: 0.0045826635, w: 0.99542326}
+  m_LocalPosition: {x: -0.19483584, y: 8.748283, z: -3.9762359}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
