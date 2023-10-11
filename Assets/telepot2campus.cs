@@ -26,7 +26,7 @@ public class telepot2campus : MonoBehaviour
     {
         XRObject.transform.position = PositionInScene;
         XRObject.transform.localEulerAngles = AngleInScene;
-        SceneManager.LoadScene(campusName);
+        SceneManager.LoadSceneAsync(campusName,LoadSceneMode.Additive);
 
     }
 }
