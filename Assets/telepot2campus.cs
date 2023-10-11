@@ -19,14 +19,21 @@ public class telepot2campus : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        /*
+       if(Input.GetKeyDown(KeyCode.Space))
+            {
+            //StartCoroutine(LoadSceneAsync("Spelman");
+            teleport();
+            }
+        }
+        */
     }
 
     public void teleport()
     {
         XRObject.transform.position = PositionInScene;
         XRObject.transform.localEulerAngles = AngleInScene;
-        SceneManager.LoadScene(campusName);
+        SceneManager.LoadSceneAsync(campusName, LoadSceneMode.Additive);
 
     }
 }
