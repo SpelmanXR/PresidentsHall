@@ -16,5 +16,7 @@ public class SOSXRCharacter : MonoBehaviour
         
     }
     void Awake()
-    { DontDestroyOnLoad(gameObject); }
+    {
+        // DontDestroyOnLoad(gameObject);
+    }
 }

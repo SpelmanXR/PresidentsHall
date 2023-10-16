@@ -8,6 +8,7 @@ public class back2TheFuture : MonoBehaviour
     public Vector3 ogPosition;
     public Vector3 ogOrientation;
     public string SampleSceneobj;
+    public GameObject XRObject;
     // Start is called before the first frame update
     void Start()
     {
@@ -21,7 +22,10 @@ public class back2TheFuture : MonoBehaviour
     }
 
     public void back2Museum()
-    { //in case this dont work check out asynch unload in browser
+    { 
         SceneManager.LoadScene(SampleSceneobj);
+        XRObject.transform.position = ogPosition;
+        XRObject.transform.localEulerAngles = ogOrientation;
+
     }
 }
