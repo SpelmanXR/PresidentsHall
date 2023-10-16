@@ -5,8 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class telepot2campus : MonoBehaviour
 {
-    public string campusName;
-    public Material sceneName;
+    public string campusSceneName;
+    public Material sceneBoxName;
     public GameObject XRObject;
     public back2TheFuture BTF;
     public Vector3 PositionInScene = new Vector3(0f, 0f, -5f);
@@ -30,7 +30,7 @@ public class telepot2campus : MonoBehaviour
         BTF.ogOrientation = XRObject.transform.localEulerAngles;
         XRObject.transform.position = PositionInScene;
         XRObject.transform.localEulerAngles = AngleInScene;
-        SceneManager.LoadSceneAsync(campusName,LoadSceneMode.Additive);
-        RenderSettings.skybox = sceneName;
+        SceneManager.LoadSceneAsync(campusSceneName,LoadSceneMode.Additive);
+        RenderSettings.skybox = sceneBoxName;
     }
 }

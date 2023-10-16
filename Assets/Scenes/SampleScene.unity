@@ -1166,6 +1166,14 @@ PrefabInstance:
       value: SpelmanCampus
       objectReference: {fileID: 0}
     - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: sceneBoxName
+      value: 
+      objectReference: {fileID: 2100000, guid: 4662cb2ac21809d458cb8a0a92a0b3e7, type: 2}
+    - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: campusSceneName
+      value: SpelmanCampus
+      objectReference: {fileID: 0}
+    - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: PositionInScene.z
       value: 1000
       objectReference: {fileID: 0}
@@ -1516,6 +1524,10 @@ PrefabInstance:
     - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: campusName
       value: SSU
+      objectReference: {fileID: 0}
+    - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: PositionInScene.z
+      value: 1000
       objectReference: {fileID: 0}
     - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_text
@@ -3518,8 +3530,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 356574524}
-  m_LocalRotation: {x: -0.06590327, y: 0.91438127, z: 0.16582128, w: 0.36341012}
-  m_LocalPosition: {x: -97.04242, y: -59.745125, z: 209.41888}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.34599996, y: 1.7600012, z: 5.819852}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3813,8 +3825,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 446332035}
-  m_LocalRotation: {x: -0.06590327, y: 0.91438127, z: 0.16582128, w: 0.36341012}
-  m_LocalPosition: {x: -97.04242, y: -58.365124, z: 209.41888}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.84, y: 3.2760715, z: -0.8230002}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5175,6 +5187,18 @@ PrefabInstance:
     - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: campusName
       value: ASU
+      objectReference: {fileID: 0}
+    - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: sceneBoxName
+      value: 
+      objectReference: {fileID: 2100000, guid: 4c30cf12bc6097b41a6a170e701b2780, type: 2}
+    - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: campusSceneName
+      value: ASU
+      objectReference: {fileID: 0}
+    - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: PositionInScene.z
+      value: 1000
       objectReference: {fileID: 0}
     - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_text
@@ -10004,6 +10028,18 @@ PrefabInstance:
     - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: campusName
       value: FVSU
+      objectReference: {fileID: 0}
+    - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: sceneBoxName
+      value: 
+      objectReference: {fileID: 2100000, guid: ccf60bb692fb24e4ca9a5eae6b7c55bf, type: 2}
+    - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: campusSceneName
+      value: FVSU
+      objectReference: {fileID: 0}
+    - target: {fileID: 3704910699840071463, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
+      propertyPath: PositionInScene.z
+      value: 1000
       objectReference: {fileID: 0}
     - target: {fileID: 5511675766311022385, guid: ab98459d0afec42069c4aa30c606053e, type: 3}
       propertyPath: m_text
