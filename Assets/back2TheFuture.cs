@@ -12,7 +12,7 @@ public class back2TheFuture : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        SampleSceneobj = "SampleScene";
+        SampleSceneobj = "ExhibitionHall";
     }
 
     // Update is called once per frame
